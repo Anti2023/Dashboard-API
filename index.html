@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <title>Document</title>
+    <style>
+        body {
+            background-image: url("assets/images/money.png");
+            background-size: cover;
+            background-repeat: no-repeat;
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Dashboard de Indicadores Económicos de Chile</h1>
+    <div class="selector">
+        <div>
+            <label for="dateSelector">Seleccione una fecha:</label>
+        </div>
+        <div>
+            <input type="date" id="dateSelector">
+        </div>
+        <div>
+            <button type="submit">Obtener Indicadores</button>
+        </div>
+    </div>
+    <div>
+        <canvas id="graficoIndicadores" width="450" height="100"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="/app.js" type="module"></script>
+</body>
+
+</html>
