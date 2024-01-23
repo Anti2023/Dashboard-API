@@ -1,6 +1,6 @@
 # Landing Page COVID-19
 
-Esta Landing Page proporciona información en tiempo real sobre los casos totales de COVID-19 por país. Ha sido desarrollada como parte del bootcamp de desarrollo web de la UDD, utilizando tecnologías como HTML5, Tailwind CSS y Chart.js.
+El presente Dashboard muestra los indicadores económicos para Chile por fecha. Los datos se obtienen de la API https://mindicador.cl/ .
 
 ## Contenido
 
