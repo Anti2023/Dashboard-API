@@ -35,17 +35,17 @@ Para utilizar y modificar este proyecto, necesitarás:
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/Camilecacao/Proyecto3
+git clone https://github.com/Anti2023/Dashboard-API.git
 ```
 
 2. Abre el archivo index.html en tu navegador web para ver la página.
 
 ## Uso
-Simplemente abre la página web en tu navegador y podrás ver los datos de casos totales de COVID-19 por país representados en gráficos interactivos.
+Solo debes abrir la página web en tu navegador y podrás ver los indicadores económicos por fecha.
 
 ## Tecnologías Utilizadas
 HTML5: Estructura básica de la página web.
-Tailwind CSS: Framework CSS para el diseño y estilos.
+CSS para el diseño y estilos.
 Chart.js: Librería para la creación de gráficos interactivos.
 
 ## Capturas de Pantalla
@@ -64,7 +64,4 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
 
-## Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en camilecacao@gmail.com
 
-¡Gracias por utilizar esta Landing Page sobre COVID-19!
