@@ -60,7 +60,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 - Sube tus cambios a tu repositorio: git push origin feature/nueva-funcion.
 - Crea una solicitud de extracción (pull request) en GitHub.
 
-## Licencia
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
+
 
 
