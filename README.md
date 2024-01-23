@@ -1,7 +1,5 @@
 # Dashboard API Indicadores económicos
 
-El presente Dashboard muestra los indicadores económicos para Chile por fecha. Los datos se obtienen de la API https://mindicador.cl/ .
-
 ## Contenido
 
 - [Descripción](#descripción)
@@ -17,11 +15,11 @@ El presente Dashboard muestra los indicadores económicos para Chile por fecha. 
 
 ## Descripción
 
-Esta Landing Page muestra gráficamente los datos de casos totales de COVID-19 por país. Los datos son proporcionados en tiempo real y se representan mediante gráficos interactivos.
+El presente Dashboard muestra los indicadores económicos para Chile por fecha. Los datos se obtienen de la API https://mindicador.cl/ .
 
 ## Demo
 
-Puedes ver una demostración de la Landing Page en vivo [aquí]().
+Puedes ver una demostración en vivo [aquí]().
 
 ## Requisitos
 
@@ -45,6 +43,7 @@ Solo debes abrir la página web en tu navegador y podrás ver los indicadores ec
 
 ## Tecnologías Utilizadas
 HTML5: Estructura básica de la página web.
+Node.js
 CSS para el diseño y estilos.
 Chart.js: Librería para la creación de gráficos interactivos.
 
