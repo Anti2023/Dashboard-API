@@ -48,8 +48,8 @@ CSS para el diseño y estilos.
 Chart.js: Librería para la creación de gráficos interactivos.
 
 ## Capturas de Pantalla
-Captura de Pantalla 1
-Captura de Pantalla 2
+![image](https://github.com/Anti2023/Dashboard-API/assets/123422234/7ec0fcd6-2998-4c67-a9d9-de1c8ee6799b)
+
 
 ## Contribución
 Si deseas contribuir a este proyecto, sigue estos pasos:
