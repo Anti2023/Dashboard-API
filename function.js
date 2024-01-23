@@ -12,7 +12,7 @@ async function obtenerDatos() {
   
       const data = await response.json();
   
-      // Utilizar Object.entries para obtener un array de pares clave-valor
+      // Utilizar Object.entries para obtener un array
       const arrayDePares = Object.entries(data);
   
       const arrayFiltrado = arrayDePares.filter(([clave]) => clave !== 'ipc' && clave !== 'version' && clave !== 'autor' && clave !== 'fecha');
