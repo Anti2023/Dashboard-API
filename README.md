@@ -21,7 +21,7 @@ Esta Landing Page muestra gráficamente los datos de casos totales de COVID-19 p
 
 ## Demo
 
-Puedes ver una demostración de la Landing Page en vivo [aquí](https://willowy-souffle-5e664b.netlify.app).
+Puedes ver una demostración de la Landing Page en vivo [aquí]().
 
 ## Requisitos
 
